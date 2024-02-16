@@ -1,1 +1,3 @@
-# hjemmegus.github.io
+hjemmegus.dk
+
+Jeppe Bigandt

@@ -1,0 +1,7 @@
+repository: "Bigandt/bigandt.github.io"
+url: "https://bigandt.github.io"
+
+# Build settings
+#theme: minima
+plugins:
+  - jekyll-feed
