@@ -1,0 +1,43 @@
+dansk:
+  headLine1: OM OS
+  headLine2: SERVICE
+  headLine3: KONTAKT
+  headLine4: BOOK TID
+  headerHeadLine1: Velkommen til HjemmeGUS
+  headerHeadLine2: Saunagus hvor du vil
+  bookingButton: Book tid
+  firstNewLanguage: English
+  firstNewLanguageHref: /en
+  firstNewLanguageAsset: united-kingdom.png
+  firstNewLanguageAlt: British
+  section1Headline1: SaunaGUS i din have?
+  section1Headline2: Book dit Saunagus hvor som helst du ønsker det!
+  section1Headline3: Oplev afslapning med TeltSauna!
+  section1Text1: Drømmer du om at nyde en varm sauna i din egen have, på sommerhusets terrasse eller ved stranden? Vi gør det muligt. Unik Gusoplevelse - En unik outdoor sauna oplevelse! - Giver dig en beroligende effekt på krop og sind. Saunagus består af 4 runder som varer 10-15 minutter hver, svarende til en time. Jeg bruger æteriske olier og håndklædebevægelser for at sprede de dampende/duftende æteriske olier.<br>Saunagus anbefales som en velværende oplevelse, uanset om du er erfaren eller nybegynder. Forkæl dig selv, og nyd den intense stemning i den varme sauna!
+  section1Text2: Som Gusmester guider jeg dig gennem en gusoplevelse med behagelig musik og lækre dufte (æteriske olier) tilsat saunaens varme og magi. Jeg byder dig velkommen til en sanselig rejse til mine saunagus sessioner hvor du vil opleve en kombination af behageligt musik, dufte, og vifte bevægelser med håndklæder.
+  section1Headline4: Services
+  section1Text3: HjemmeGUS, Workshop eller leje af saunatelt?
+  section1Text4: Uanset om du har en hyggeaften med familien, er på telttur i skoven, på stranden eller til en begivenhed i foreningen, klublivet, til par middage, polterabend eller måske en tøseaften så er jeg her til at hjælpe dig med en unik saunagus oplevelse. Du kan endda leje saunateltet på egen hånd og nyde det på din ferie i sommerhuset eller på campingturen! tilføj et strejf af luksus med leje af et transportable telt og lav din egen unik GUS oplevelse. Jeg er her til at guide dig.
+  footerContact: Kontakt
+
+english:
+  headLine1: ABOUT
+  headLine2: SERVICE
+  headLine3: CONTACT
+  headLine4: BOOKING
+  headerHeadLine1: Welcome to HjemmeGUS
+  headerHeadLine2: Saunagus anywhere you want
+  bookingButton: Booking
+  firstNewLanguage: Dansk&nbsp;&nbsp;
+  firstNewLanguageHref: /
+  firstNewLanguageAsset: denmark.png
+  firstNewLanguageAlt: Dansk
+  section1Headline1: SaunaGUS in Your Garden or at your favourite spot?
+  section1Headline2: Book your SaunaGUS wherever you want!
+  section1Headline3: Experience pure relaxation with TentSauna!
+  section1Text1: Dreaming of enjoying a warm sauna in your own garden, on the terrace of your cottage, or by the beach? We make it possible!
+  section1Text2: 
+  section1Headline4: Services
+  section1Text3: 
+  section1Text4: 
+  footerContact: Contact

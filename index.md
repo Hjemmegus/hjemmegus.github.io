@@ -1,3 +1,4 @@
 ---
+language: dansk
 layout: home
 ---

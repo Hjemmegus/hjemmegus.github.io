@@ -46,22 +46,19 @@
             <a class="nav-link js-scroll-trigger" href="#hjemmegus"><strong>HJEMMEGUS</strong></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#omos"><strong>OM OS</strong></a>
+            <a class="nav-link js-scroll-trigger" href="#omos"><strong>{{site.data.home[page.language].headLine1}}</strong></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#service"><strong>SERVICE</strong></a>
+            <a class="nav-link nav-link-second-last js-scroll-trigger" href="#service"><strong>{{site.data.home[page.language].headLine2}}</strong></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#priser"><strong>PRISER</strong></a>
+            <a class="nav-link nav-link-last js-scroll-trigger" href="#kontakt"><strong>{{site.data.home[page.language].headLine3}}</strong></a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#kontakt"><strong>KONTAKT</strong></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="https://google.com" target="_blank"><strong>BOOK TID</strong></a>
+            <a class="nav-link js-scroll-trigger" href="https://google.com" target="_blank"><strong>{{site.data.home[page.language].headLine4}}</strong></a>
           </li>
           <li class="nav-item">  
-            <a class="nav-link" href="/en" id="languageDropdown" role="button" aria-haspopup="true" aria-expanded="false">English<img src="assets/united-kingdom.png" alt="British" style="width: 20px; margin-left: 5px;">
+            <a class="nav-link" href="{{site.data.home[page.language].firstNewLanguageHref}}" id="languageDropdown" role="button" aria-haspopup="true" aria-expanded="false">{{site.data.home[page.language].firstNewLanguage}}<img src="assets/{{site.data.home[page.language].firstNewLanguageAsset}}" alt="{{site.data.home[page.language].firstNewLanguageAlt}}" style="width: 20px; margin-left: 5px;">
             </a>
           </li>
         </ul>
@@ -77,9 +74,9 @@
   <header id="hjemmegus" class="masthead">
     <div class="container d-flex h-100 align-items-center">
       <div class="mx-auto text-center">
-        <h1 class="mx-auto my-0">Velkommen til HjemmeGUS</h1>
-        <h2 class="mx-auto my-0">Saunagus hvor du vil</h2>
-        <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">Book tid</a>
+        <h1 class="mx-auto my-0">{{site.data.home[page.language].headerHeadLine1}}</h1>
+        <h2 class="mx-auto my-0">{{site.data.home[page.language].headerHeadLine2}}</h2>
+        <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">{{site.data.home[page.language].bookingButton}}</a>
       </div>
     </div>
   </header>
@@ -91,22 +88,21 @@
         <!-- Left column for text -->
         <div class="col-lg-12">
           <div class="col-lg-10 offset-lg-1">
-            <h3 class="text-black mb-8">SaunaGUS i din have?</h3>
+            <h3 class="text-black mb-8">{{site.data.home[page.language].section1Headline1}}</h3>
             <!-- Other text content -->
             <p class="text-black mb-8">
-              <b>Book dit Saunagus hvor som helst du ønsker det!</b>
+              <b>{{site.data.home[page.language].section1Headline2}}</b>
               <br><br><br>
-              <b>Oplev afslapning med TeltSauna!</b>
+              <b>{{site.data.home[page.language].section1Headline3}}</b>
               <br>
-              Drømmer du om at nyde en varm sauna i din egen have, på sommerhusets terrasse eller ved stranden? Vi gør det muligt. Unik Gusoplevelse - En unik outdoor sauna oplevelse! - Giver dig en beroligende effekt på krop og sind. Saunagus består af 4 runder som varer 10-15 minutter hver, svarende til en time. Jeg bruger æteriske olier og håndklædebevægelser for at sprede de dampende/duftende æteriske olier.<br>
-              Saunagus anbefales som en velværende oplevelse, uanset om du er erfaren eller nybegynder. Forkæl dig selv, og nyd den intense stemning i den varme sauna!
+              {{site.data.home[page.language].section1Text1}}
               <br><br>
-              Som Gusmester guider jeg dig gennem en gusoplevelse med behagelig musik og lækre dufte (æteriske olier) tilsat saunaens varme og magi. Jeg byder dig velkommen til en sanselig rejse til mine saunagus sessioner hvor du vil opleve en kombination af behageligt musik, dufte, og vifte bevægelser med håndklæder.
+              {{site.data.home[page.language].section1Text2}}
               <br><br>
-              <b>Services</b><br>
-              HjemmeGUS, Workshop eller leje af saunatelt?
+              <b>{{site.data.home[page.language].section1Headline4}}</b><br>
+              {{site.data.home[page.language].section1Text3}}
               <br><br>
-              Uanset om du har en hyggeaften med familien, er på telttur i skoven, på stranden eller til en begivenhed i foreningen, klublivet, til par middage, polterabend eller måske en tøseaften så er jeg her til at hjælpe dig med en unik saunagus oplevelse. Du kan endda leje saunateltet på egen hånd og nyde det på din ferie i sommerhuset eller på campingturen! tilføj et strejf af luksus med leje af et transportable telt og lav din egen unik GUS oplevelse. Jeg er her til at guide dig.
+              {{site.data.home[page.language].section1Text4}}
             </p>
           </div>
         </div>
@@ -119,7 +115,7 @@
       <div class="row align-items-center no-gutters mb-4 mb-lg-5">
         <div class="col-12">
           <div class="text-center col-12">
-            <h3>Service</h3>
+            <h3 style="margin-top: 10px;">Service</h3>
             <h4>Du er altid i trykke hænder</h4>
           </div>
         </div>
@@ -133,7 +129,7 @@
               <h3>HjemmeGUS</h3>
               <p class="card-text">Book én times unik Saunaoplevelse i saunatelt hvor som helst du ønsker det! PRAKTISK: Vi kommer hjem til dig eller der hvor du ønsker at få et GUS i Saunatelt!</p>
             </div>
-            <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">Book tid</a>
+            <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">{{site.data.home[page.language].bookingButton}}</a>
           </div>
         </div>
         <!-- Column 2 -->
@@ -144,7 +140,7 @@
               <h3>Ekstra GUS</h3>
               <p class="card-text">Tillægstid til HjemmeGUS har du allerede booket et HjemmeGUS, men tænker at en time ikke er nok? Book ekstra tid til dit HjemmeGUS her!</p>
             </div>
-            <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">Book tid</a>
+            <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">{{site.data.home[page.language].bookingButton}}</a>
           </div>
         </div>
         <!-- Column 3 -->
@@ -155,7 +151,7 @@
               <h3>Workshop</h3>
               <p class="card-text">Kom til til Workshop i Sauna Telt! Ønsker du selv at komme igang med saunatelt eller lære at blive Gusfaciliatator? Du er med fra start til slut, og får tips og tricks til det praktiske både i forhold til opsætning, nedtagning Varighed: 5 timer</p>
             </div>
-            <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">Book tid</a>
+            <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">{{site.data.home[page.language].bookingButton}}</a>
           </div>
         </div>
         <!-- Column 4 -->
@@ -166,7 +162,7 @@
               <h3>Udlejning</h3>
               <p class="card-text">Lej saunateltet på egen hånd! Nyd saunateltet på din ferie i sommerhuset eller på campingturen! Vores teltsauna er let at sætte op og har en indbygget minipejs</p>
             </div>
-            <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">Book tid</a>
+            <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">{{site.data.home[page.language].bookingButton}}</a>
           </div>
         </div>
         <!-- Column 5 -->
@@ -178,53 +174,12 @@
               <p class="card-text">Har du en sauna selv? men du mangler en gusmester? Her kan du bestille en times gus med egen gusmester. 
                 Gusmesteren medbringer olier, vifter og håndklæder så i kan nyde et dejligt saunagus. Gusmesteren kommer 30 min før for at forberede.</p>
             </div>
-            <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">Book tid</a>
+            <a href="https://google.com" target="_blank" class="btn btn-outline-light btn-lg mt-3 rounded-pill" style="background-color: #ffffff; color: black; font-weight: 600;">{{site.data.home[page.language].bookingButton}}</a>
           </div>
         </div>       
       </div>
     </div>
   </section>
-  
-
-  <!-- Section 3 
-  <section id="priser">
-      <div class="container-fluid">
-          <div class="row">
-              <div class="col-md-8 offset-md-2 price-list">
-                <h3 class="text-center mb-4">Priser</h3>
-                  <div class="item price-head" style="background: #f5f4f4">
-                        <div class="title" style="font-weight: bold">HjemmeGUS</div>
-                    </div><div class="item">
-                          <div class="title">HjemmeGus</div>
-                          <div class="price">1.800,00 DKK</div>
-                      </div><div class="item">
-                          <div class="title">Ekstra times GUS</div>
-                          <div class="price">800,00 DKK</div>
-                      </div><div class="item price-head" style="background: #f5f4f4">
-                        <div class="title" style="font-weight: bold">Workshop Saunatelt</div>
-                    </div><div class="item">
-                          <div class="title">Workshop Saunatelt</div>
-                          <div class="price">900,00 DKK</div>
-                      </div><div class="item price-head" style="background: #f5f4f4">
-                        <div class="title" style="font-weight: bold">Leje af saunatelt (uden gusmester)</div>
-                    </div><div class="item">
-                          <div class="title">1 dag</div>
-                          <div class="price">1.800,00 DKK</div>
-                      </div><div class="item">
-                          <div class="title">1 weekend</div>
-                          <div class="price">3.000,00 DKK</div>
-                      </div><div class="item">
-                          <div class="title">1 uge</div>
-                          <div class="price">4.000,00 DKK</div>
-                      </div><div class="item">
-                          <div class="title">2 uger</div>
-                          <div class="price">7.000,00 DKK</div>
-                      </div>
-              </div>
-          </div>
-      </div>
-  </section>
-  -->
 
   <!-- Footer -->
   <footer id="kontakt">
@@ -242,7 +197,7 @@
                 <!-- You can add content or links here -->
             </div>
             <div class="col-lg-4">
-                <h4>Kontakt</h4>
+                <h4>{{site.data.home[page.language].footerContact}}</h4>
                 <div class="mb-3">
                     <div class="d-flex align-items-center">
                         <i class="fa fa-mobile fa-fw mr-2" aria-hidden="true"></i>
@@ -277,6 +232,18 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/grayscale.js"></script>
+  <script>
+    
+    $(window).scroll(function() {
+      if($(window).scrollTop() + $(window).height() > $(document).height() - 10) {
+        $('.nav-link').removeClass('active'); 
+        $('.nav-link-last').addClass('active'); 
+      } else if($(window).scrollTop() + $(window).height() > $(document).height() - 20) {
+        $('.nav-link-last').removeClass('active'); 
+        $('.nav-link-second-last').addClass('active'); 
+      }
+    });
+  </script>
 
 </body>
 

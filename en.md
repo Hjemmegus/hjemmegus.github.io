@@ -1,3 +1,4 @@
 ---
-layout: homeEn
+language: english
+layout: home
 ---
