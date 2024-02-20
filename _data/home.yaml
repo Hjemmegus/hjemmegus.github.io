@@ -18,6 +18,18 @@ dansk:
   section1Headline4: Services
   section1Text3: HjemmeGUS, Workshop eller leje af saunatelt?
   section1Text4: Uanset om du har en hyggeaften med familien, er på telttur i skoven, på stranden eller til en begivenhed i foreningen, klublivet, til par middage, polterabend eller måske en tøseaften så er jeg her til at hjælpe dig med en unik saunagus oplevelse. Du kan endda leje saunateltet på egen hånd og nyde det på din ferie i sommerhuset eller på campingturen! tilføj et strejf af luksus med leje af et transportable telt og lav din egen unik GUS oplevelse. Jeg er her til at guide dig.
+  section2Header1: Service
+  section2Header2: Du er altid i trygge hænder
+  section2Service1Header: HjemmeGUS
+  section2Service1Text: "Book én times unik Saunaoplevelse i saunatelt hvor som helst du ønsker det! PRAKTISK: Vi kommer hjem til dig eller der hvor du ønsker at få et GUS i Saunatelt!"
+  section2Service2Header: Ekstra GUS
+  section2Service2Text: Tillægstid til HjemmeGUS har du allerede booket et HjemmeGUS, men tænker at en time ikke er nok? Book ekstra tid til dit HjemmeGUS her!
+  section2Service3Header: Workshop
+  section2Service3Text: "Kom til til Workshop i Sauna Telt! Ønsker du selv at komme igang med saunatelt eller lære at blive Gusfaciliatator? Du er med fra start til slut, og får tips og tricks til det praktiske både i forhold til opsætning, nedtagning Varighed: 5 timer"
+  section2Service4Header: Udlejning
+  section2Service4Text: Lej saunateltet på egen hånd! Nyd saunateltet på din ferie i sommerhuset eller på campingturen! Vores teltsauna er let at sætte op og har en indbygget minipejs
+  section2Service5Header: Lej en gusmester
+  section2Service5Text: Har du en sauna selv? men du mangler en gusmester? Her kan du bestille en times gus med egen gusmester. Gusmesteren medbringer olier, vifter og håndklæder så i kan nyde et dejligt saunagus. Gusmesteren kommer 30 min før for at forberede.
   footerContact: Kontakt
 
 english:
@@ -26,18 +38,30 @@ english:
   headLine3: CONTACT
   headLine4: BOOKING
   headerHeadLine1: Welcome to HjemmeGUS
-  headerHeadLine2: Saunagus anywhere you want
+  headerHeadLine2: Aufguss anywhere you want
   bookingButton: Booking
   firstNewLanguage: Dansk&nbsp;&nbsp;
   firstNewLanguageHref: /
   firstNewLanguageAsset: denmark.png
   firstNewLanguageAlt: Dansk
-  section1Headline1: SaunaGUS in Your Garden or at your favourite spot?
-  section1Headline2: Book your SaunaGUS wherever you want!
+  section1Headline1: HjemmeGUS in Your Garden or at your favourite spot?
+  section1Headline2: Book your aufguss wherever you want!
   section1Headline3: Experience pure relaxation with TentSauna!
-  section1Text1: Dreaming of enjoying a warm sauna in your own garden, on the terrace of your cottage, or by the beach? We make it possible!
-  section1Text2: 
+  section1Text1: Do you dream of enjoying a warm sauna in your own garden, on the summer house's terrace or by the beach? We make it possible. Unique sauna experience - A unique outdoor sauna experience! - Gives you a calming effect on body and mind. Saunagus consists of 4 rounds that last 10-15 minutes each, corresponding to one hour. I use essential oils and towel motion to diffuse the steamy/scented essential oils. Saunagus is recommended as a well-being experience, regardless of whether you are experienced or a beginner. Pamper yourself and enjoy the intense atmosphere in the warm sauna!
+  section1Text2: As Gusmester, I guide you through a gus experience with pleasant music and delicious scents (essential oils) added to the heat and magic of the sauna. I welcome you to a sensual journey to my saunagus sessions where you will experience a combination of pleasant music, scents, and fanning movements with towels.
   section1Headline4: Services
-  section1Text3: 
-  section1Text4: 
+  section1Text3: Aufguss with or without aufguss facilitator, Workshop or rental of saunatent? 
+  section1Text4: Regardless of whether you have a cozy evening with the family, are on a camping trip in the forest, on the beach or for an event in the association, club life, for a couple of dinners, bachelor parties or perhaps a hen party, I am here to help you with a unique saunagus experience. You can even rent the sauna tent on your own and enjoy it on your holiday in the cottage or on the camping trip! add a touch of luxury with the rental of a transportable tent and create your own unique GUS experience. I am here to guide you.
+  section2Header1: Services
+  section2Header2: You are always in safe hands
+  section2Service1Header: Hjemmegus
+  section2Service1Text: Book a one-hour unique sauna experience.<br>The aufguss master will guide you through you private session. With the HjemmeGUS experience you decide where, we come to your home or wherever you want to have a sauna session.
+  section2Service2Header: Extra HjemmeGUS
+  section2Service2Text: "Additional Time for the HjemmeGUS experience: Have you already booked a Home Aufguss with HjemmeGUS but think that one hour isn't enough? Book extra time for your HjemmeGUS experience here!"
+  section2Service3Header: Workshop 
+  section2Service3Text: "Join us for a Workshop in the Sauna Tent! Do you want to get started with sauna tents yourself or learn to become an Aufguss facilitator? You'll be with us from start to finish, receiving tips and tricks for the practical aspects of setup and takedown. Duration: 5 hours!"
+  section2Service4Header: Rental 
+  section2Service4Text: Rent the sauna tent on your own! Enjoy the sauna tent during your holiday at the summer house or on the camping trip! Our tent sauna is easy to set up and comes with a built-in mini fireplace.
+  section2Service5Header: Rent a aufguss facilitator
+  section2Service5Text: Do you have your own sauna but need a aufguss facilitator or a sauna master? book one here. The sauna master will bring oils, fans, and towels so you can enjoy a delightful sauna session. The sauna master arrives 30 minutes beforehand to prepare.
   footerContact: Contact
