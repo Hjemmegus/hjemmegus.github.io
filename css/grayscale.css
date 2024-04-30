@@ -143,6 +143,16 @@
     max-width: 30rem;
     font-size: 1.25rem;
   }
+
+  .main-carousel {
+    max-width: 70%; /* Adjust this percentage as needed */
+    margin: 0 auto; /* Center the carousel horizontally */
+  }
+
+  .second-carousel {
+    max-width: 50%; /* Adjust this percentage as needed */
+    margin: 0 auto; /* Center the carousel horizontally */
+  }
 }
 
 .btn {
@@ -276,4 +286,24 @@ footer {
 
 .card {
   height: 100%;
+}
+
+.main-carousel .carousel-cell {
+  width: 100%; /* Each cell takes up 100% of the container width */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.main-carousel .carousel-cell img {
+  max-width: 100%; 
+  height: auto;  /* Maintain aspect ratio */
+}
+
+.second-carousel .carousel-cell {
+  width: 100%; /* Each cell takes up 100% of the container width */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.second-carousel .carousel-cell img {
+  max-width: 100%; 
+  height: auto;  /* Maintain aspect ratio */
 }

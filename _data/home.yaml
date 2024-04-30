@@ -2,10 +2,10 @@ dansk:
   headLine1: OM OS
   headLine2: SERVICE
   headLine3: KONTAKT
-  headLine4: BOOK TID
+  headLine4: SE PRISER
   headerHeadLine1: Velkommen til HjemmeGUS
   headerHeadLine2: Saunagus hvor du vil
-  bookingButton: Book tid
+  bookingButton: Se priser
   firstNewLanguage: English
   firstNewLanguageHref: /en
   firstNewLanguageAsset: united-kingdom.png
@@ -36,10 +36,10 @@ english:
   headLine1: ABOUT
   headLine2: SERVICE
   headLine3: CONTACT
-  headLine4: BOOKING
+  headLine4: PRICES
   headerHeadLine1: Welcome to HjemmeGUS
   headerHeadLine2: Aufguss anywhere you want
-  bookingButton: Booking
+  bookingButton: Prices
   firstNewLanguage: Dansk&nbsp;&nbsp;
   firstNewLanguageHref: /
   firstNewLanguageAsset: denmark.png
